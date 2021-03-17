@@ -1,0 +1,8 @@
+video {
+    width: 400px;
+    border-radius: 10px;
+}
+
+#strikethrough-me {
+    text-decoration: line-through;
+}

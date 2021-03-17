@@ -1,0 +1,76 @@
+body {
+    background-color: #272640;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav, h1, h2 {
+    font-family: 'Source Sans Pro', 'Noto Sans', sans-serif;
+}
+
+nav {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: rgb(161, 171, 235);
+}
+
+a:hover {
+    font-weight: bolder;
+    color: rgb(118, 118, 158);
+}
+
+.profile-photo {
+    width: 250px;
+    border-radius: 50%;
+}
+
+table {
+    margin: auto;
+}
+
+td, th {
+    border: 1px solid white;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+th {
+    letter-spacing: 1px;
+}
+
+li {
+    padding-bottom: 4px;
+}
+
+
+hr {
+    color: rgb(8, 153, 153);
+}
+
+footer {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(220, 209, 209);
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+#copyleft {
+    display:inline-block;
+    transform: scaleX(-1);
+}

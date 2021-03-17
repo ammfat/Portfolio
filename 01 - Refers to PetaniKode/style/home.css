@@ -1,0 +1,11 @@
+header, article {
+    text-align: center;
+}
+
+p {
+    line-height: 25px;
+}
+
+li:hover, th:hover {
+    color: tomato;
+}

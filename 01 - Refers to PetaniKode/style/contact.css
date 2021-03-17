@@ -1,0 +1,11 @@
+textarea {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    width: 350px;
+    height: 150px;
+    border-radius: 5px;
+    resize: none;
+}
+
+button:hover {
+    font-weight: bold;
+}
